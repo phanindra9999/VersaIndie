@@ -84,7 +84,7 @@ export default function SearchBar() {
           className="text-white group-hover:-scale-x-100 transition duration-100 group-active:scale-90"
           size={20}
         />
-        <span className="lg:hidden">SEARCH</span>
+        <span className="lg:hidden">SEARCH </span>
       </button>
     </div>
   );
